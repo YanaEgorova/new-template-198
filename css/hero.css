@@ -90,10 +90,7 @@
     max-width: 60rem;
     margin: 0 auto;
 }
-.policy__img  {
-    display: block;
-    width: 100%;
-}
+
 .policy .btn {
     -webkit-box-shadow:  0rem 0rem 3rem 0rem rgba(0,0,0,0.3);
     -moz-box-shadow:  0rem 0rem 3rem 0rem rgba(0,0,0,0.3);
@@ -102,13 +99,7 @@
 
 
 
-.img-wrapper {
-    background-image: url('../img/bg5.png');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    padding: 10rem 0;
-}
+
 
 @media screen and (min-width: 1440px)  {
     .hero__wrapper {
@@ -206,11 +197,7 @@
         align-items: center;
         max-width: 100%;
     }
-    .policy__img {
-        max-width: 50rem;
-        height: 35rem;
-        object-fit: cover;
-    }
+   
     .policy__block--top {
         text-align: right;
         padding-right: 2rem;
@@ -233,8 +220,6 @@
     }
 
 
-    .img-wrapper {
-        padding: 20rem 0;
-    }
+  
 }
 
