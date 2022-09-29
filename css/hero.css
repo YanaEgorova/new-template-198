@@ -165,7 +165,9 @@
         -moz-box-shadow: 0rem 0rem 2rem 0rem rgba(0,0,0,0.3);
         box-shadow: 0rem 0rem 2rem 0rem rgba(0,0,0,0.3);
     }
-
+    .hero .title {
+        max-width: 60rem;
+    }
 
 
     .contacts {
