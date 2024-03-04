@@ -76,6 +76,7 @@
 }
 .policy__block {
     padding: 5rem 2rem;
+    max-width: 60rem;
 }
 .policy__block .text {
     margin-bottom: 3rem;
@@ -198,6 +199,7 @@
         display: flex;
         align-items: center;
         max-width: 100%;
+        
     }
    
     .policy__block--top {
@@ -206,6 +208,7 @@
         border-right: .3rem solid var(--second-brand-color);
         border-top: .3rem solid var(--second-brand-color);
         margin-right: 2rem;
+        margin: 0 auto;
     }
     .policy__block--top .btn {
         margin-right: 0;
